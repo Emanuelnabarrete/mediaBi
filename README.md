@@ -1,0 +1,2 @@
+# mediaBi
+Exercicio media bimestral
